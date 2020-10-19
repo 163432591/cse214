@@ -4,14 +4,24 @@
 Here for problem 1,2,3 i first declare an integer array length of one hunderd.i dont initialize the array.i check overflow for each program.i don,t use any function and pointer.just use simple loop for solving problem.
 .
 ```
-## Check overflow
+## Check overflow:
+
+
+
 
 if(n>100)
     {
         printf("Overflow");
     }
     
-## Take values from user into an array until end of file
+    
+    
+    
+## Take values from user into an array until end of file:
+
+
+
+
 
  while(scanf("%d",&array[i]) != EOF)
     {
@@ -24,7 +34,13 @@ if(n>100)
     }
     
     
-##  Take values from user into an array until user input is 0(Zero)
+    
+    
+    
+##  Take values from user into an array until user input is 0(Zero):
+
+
+
 
 
 while(scanf("%d",&array[i]) != EOF)
@@ -49,21 +65,39 @@ while(scanf("%d",&array[i]) != EOF)
 here  for problem 4,5,6,7 i i  first declare an integer array length of one hunderd and initialize the array with 10 values.i don,t use any function and pointer.just use simple loop for solving problem.
 .
 ```
-## To print array in new line
+## To print array in new line:
+
+
+
+
 
 for(i=0;i<n;i++)
     {
         printf("%d\n",array[i]);
     }
     
-## To Print entire array each element separated by space
+    
+    
+    
+    
+## To Print entire array each element separated by space:
+
+
+
 
 for(i=0;i<n;i++)
     {
         printf("%d ",array[i]);
     }
     
-## To Print entire array each element separated by comma
+    
+    
+    
+    
+## To Print entire array each element separated by comma:
+
+
+
 
 for(i=0;i<n;i++)
     {
@@ -75,7 +109,14 @@ for(i=0;i<n;i++)
         }
     }
     
- ## To Print the array elements in reverse order
+    
+    
+    
+ ## To Print the array elements in reverse order:
+ 
+ 
+ 
+ 
  
  for(i=9;i>=0;i--)
     {
@@ -83,5 +124,8 @@ for(i=0;i<n;i++)
 
 
     }
+    
+    
+    
  
  
