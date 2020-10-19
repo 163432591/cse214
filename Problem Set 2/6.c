@@ -1,5 +1,5 @@
 /*
-Update K th (take input K from user) index with the value “X” (take input X from user). And print the whole array.
+Update K th (take input K from user) index with the value â€œXâ€ (take input X from user). And print the whole array.
 Name:Rafeul Anam Udoy
 Id:163432591
 */
@@ -24,7 +24,7 @@ int main()
     scanf("%d", &X);
 
 
-     array[K-1]=X;
+     array[K]=X;
 
 
     for(i=0; i<size; i++)
