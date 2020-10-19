@@ -9,3 +9,4 @@ Here for problem 1,2,3 i first declare an integer array length of one hunderd.i 
 ```
 here  for problem 4,5,6,7 i i  first declare an integer array length of one hunderd and initialize the array with 10 values
 .
+```
