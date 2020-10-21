@@ -1,5 +1,5 @@
 /*
-Insert a value “X” (take input X from user) in the array at K th (take input K from user)
+Insert a value â€œXâ€ (take input X from user) in the array at K th (take input K from user)
 index and shift all other value to right. And print the whole array
 Name:Rafeul Anam Udoy
 Id:163432591
@@ -29,7 +29,7 @@ int main()
 
        size++;
 
-    a[K - 1] = X;
+    a[K] = X;
 
     for(i=0; i<size; i++){
 
