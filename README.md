@@ -22,11 +22,11 @@
  
 ## Problem Set 6-Linked List Basic Operation(Single Way Link List)
  
- 1.Create Linked List
- 2.Dynamic Memory Allocation
- 3.Display Linked List
- 4.Access Linked List Using Function
- 5.Access Linked List Using Recursive Function
- 6.Check Empty List
- 7.Display Reverse Linked List
+ 1. Create 
+ 1. Declare
+ 1. Initialize
+ 1. Access 
+ 1. Traverse
+ 1. Output
+ 
  
