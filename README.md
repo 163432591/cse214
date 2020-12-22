@@ -19,3 +19,14 @@
  1. Array Update 
  1. Array Search
  1. Array Delete
+ 
+## Problem Set 6-Linked List Basic Operation(Single Way Link List)
+ 
+ 1.Create Linked List
+ 2.Dynamic Memory Allocation
+ 3.Display Linked List
+ 4.Access Linked List Using Function
+ 5.Access Linked List Using Recursive Function
+ 6.Check Empty List
+ 7.Display Reverse Linked List
+ 
