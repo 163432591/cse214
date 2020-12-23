@@ -45,12 +45,12 @@
  1. Delete Value
  1. Delete At
  1. Delete All/Clear
-  ## Problem Set 9-Linked List Insert (Push)Operations[Single Way Linked List]
- 1.Insert Front 
- 1.Insert Back
- 1.Insert At
- 1.Insert Before
- 1.Insert After
+ ## Problem Set 9-Linked List Insert (Push)Operations[Single Way Linked List]
+ 1. Insert Front 
+ 1. Insert Back
+ 1. Insert At
+ 1. Insert Before
+ 1. Insert After
 
  
 
