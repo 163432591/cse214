@@ -8,11 +8,18 @@
 **Delete Front In Linked List And Check Under Flow**
 
 
-struct Node* delete_front(struct Node *ptr)
 
+
+
+
+
+
+    struct Node* delete_front(struct Node *ptr)
 
 {
+
     if(ptr){
+    
     
     
         struct Node *new_head = NULL;
@@ -48,10 +55,13 @@ struct Node* delete_back(struct Node *ptr)
 
 
 {
-    struct Node *head = ptr, *last;
+   
+   
+   
+     struct Node *head = ptr, *last;
     
     
-    if(ptr)
+     if(ptr)
     {
         if (head->next!=NULL)
         {
@@ -83,11 +93,11 @@ struct Node* delete_back(struct Node *ptr)
     
     
     
-  **Delete ValueAnd Check Under Flow **
+ **Delete ValueAnd Check Under Flow **
    
    
    
-   struct Node* delete_value(struct Node *ptr, int key)
+     struct Node* delete_value(struct Node *ptr, int key)
    
 {
 
@@ -130,10 +140,12 @@ struct Node* delete_back(struct Node *ptr)
 
 
 
-struct Node* delete_at(struct Node *ptr, int pos)
+    struct Node* delete_at(struct Node *ptr, int pos)
 
 
 {
+
+
     while(ptr)
     
     {
@@ -179,10 +191,11 @@ struct Node* delete_at(struct Node *ptr, int pos)
  
  
  
- struct Node* clear(struct Node *ptr)
+    struct Node* clear(struct Node *ptr)
  
  
 {
+    
     struct Node *to_delete;
     
     while(ptr)
