@@ -3,12 +3,9 @@
 
 
 
+
+
 **Delete Front In Linked List And Check Under Flow* **
-
-
-
-
-
 
 
 struct Node* delete_front(struct Node *ptr)
@@ -148,12 +145,7 @@ struct Node* delete_at(struct Node *ptr, int pos)
 
 
 
-
-
-
-
-
- **Delete All Value In Linked List **
+**Delete All Value In Linked List **
  
  
  
