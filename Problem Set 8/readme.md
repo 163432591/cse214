@@ -5,10 +5,12 @@
 
 
 
-**Delete Front In Linked List And Check Under Flow* **
+**Delete Front In Linked List And Check Under Flow**
 
 
 struct Node* delete_front(struct Node *ptr)
+
+
 {
     if(ptr){
     
@@ -42,9 +44,13 @@ struct Node* delete_front(struct Node *ptr)
 
 
 
-truct Node* delete_back(struct Node *ptr)
+struct Node* delete_back(struct Node *ptr)
+
+
 {
     struct Node *head = ptr, *last;
+    
+    
     if(ptr)
     {
         if (head->next!=NULL)
@@ -65,7 +71,9 @@ truct Node* delete_back(struct Node *ptr)
         return head;
     }
     else
+    
         printf("Underflow Linked List");
+        
     return head;
     
     
@@ -73,12 +81,16 @@ truct Node* delete_back(struct Node *ptr)
     
     
     
-   **Delete ValueAnd Check Under Flow **
+    
+    
+  **Delete ValueAnd Check Under Flow **
    
    
    
    struct Node* delete_value(struct Node *ptr, int key)
+   
 {
+
     if (ptr)
     {
         struct Node *head = ptr, *prev;
@@ -119,10 +131,14 @@ truct Node* delete_back(struct Node *ptr)
 
 
 struct Node* delete_at(struct Node *ptr, int pos)
+
+
 {
     while(ptr)
+    
     {
         if(pos>4 || pos<1)
+        
         {
             printf("Index out of range");
             return NULL;
@@ -164,8 +180,11 @@ struct Node* delete_at(struct Node *ptr, int pos)
  
  
  struct Node* clear(struct Node *ptr)
+ 
+ 
 {
     struct Node *to_delete;
+    
     while(ptr)
         {
             to_delete = ptr;
