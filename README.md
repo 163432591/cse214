@@ -30,3 +30,27 @@
  1. Output
  
  
+ ## Problem Set 7-Linked List Operations[Single Way Linked List]
+ 1. Create 
+ 1. Empty
+ 1. Size 
+ 1. Front
+ 1. Back
+ 1. Search
+ 1.Reverse
+ 1.Merge
+ ## Problem Set 8-Linked List Delete (Pop)Operations[Single Way Linked List]
+ 1. Delete Back
+ 1. Delete Front
+ 1. Delete Value
+ 1. Delete At
+ 1. Delete All/Clear
+  ## Problem Set 9-Linked List Insert (Push)Operations[Single Way Linked List]
+ 1.Insert Front 
+ 1.Insert Back
+ 1.Insert At
+ 1.Insert Before
+ 1.Insert After
+
+ 
+
