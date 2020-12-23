@@ -80,7 +80,7 @@
     
     
   
-  **Delete ValueAnd Check Under Flow **
+**Delete ValueAnd Check Under Flow **
   
   
    
@@ -118,9 +118,6 @@
         printf("Underflow Linked List\n");
     return ptr;
 }
-
-
-
 
 
 **Delete The Nth Element In Linked List **
@@ -171,8 +168,6 @@
     printf("Underflow Linked List\n");
     return NULL;
 }
-
-
 
 **Delete All Value In Linked List **
  
