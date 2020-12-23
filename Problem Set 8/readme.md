@@ -11,15 +11,29 @@
 struct Node* delete_front(struct Node *ptr)
 {
     if(ptr){
+    
+    
         struct Node *new_head = NULL;
+        
+        
     new_head = ptr->next;
+    
+    
     free(ptr);
+    
+    
     return new_head;
+    
     }
     else
+    
+    
         printf("Underflow Linked List");
+        
+        
     return ptr;
 }
+
 
 
 
